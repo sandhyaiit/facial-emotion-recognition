@@ -1,4 +1,4 @@
-# facial-emotion-recognition
+# Facial Emotion Recognition
 
 ## Problem Statement
 
